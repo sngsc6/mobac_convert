@@ -1,0 +1,11 @@
+I tried to use 2 text-point files from OCPN-Draw.
+The first one is showing text and symbols, while the other only shows text when the mouse is moved over.
+The points of both files do have the same coordinates.
+Every time the text-layer message of the first file is shown.
+Is there a way to change the sequence, so the second file will get visible by mouse-over.
+
+As well the system (OCPN) is not willing to close as disired, and task-manager needs to be used.
+
+Is there a solution for both issues?
+
+Thanks,
